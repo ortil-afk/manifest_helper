@@ -19,6 +19,7 @@ This is a small python script that can be used to quickly make `manifest.txt` fi
 
 ## Description of what the manifest.txt file does
 The `manifest.txt` file is what is going to tell the flipper what animations to look at, how often they should show up, and other factors that determine what causes the animation to show up. For the most part the template that is used should work fine but here is the portion of the code that if the user wants to modify for their own preferences, it will still automate those changes when running:
+
 ![Alt text](/gifs/template_change.jpg)
 
 [Talking-Sasquatch](https://github.com/skizzophrenic/Talking-Sasquach) has a great [document](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) on how to make custom animations and goes in detail about how the files work (which can help with modifying).
